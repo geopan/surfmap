@@ -1,0 +1,70 @@
+{
+"type": "FeatureCollection",
+                                                                                
+"features": [
+{ "type": "Feature", "id": 0, "properties": { "Name": "Queensie Mini", "Lat": -33.7857729, "Long": 151.2899673 }, "geometry": { "type": "Point", "coordinates": [ 151.2899673, -33.785772899999586 ] } }
+,
+{ "type": "Feature", "id": 1, "properties": { "Name": "Bilgola Bank", "Lat": -33.64388795, "Long": 151.33076370000001 }, "geometry": { "type": "Point", "coordinates": [ 151.33076370000001, -33.643887949999645 ] } }
+,
+{ "type": "Feature", "id": 2, "properties": { "Name": "Nielsen Park", "Lat": -33.84921151, "Long": 151.2677693 }, "geometry": { "type": "Point", "coordinates": [ 151.2677693, -33.84921150999962 ] } }
+,
+{ "type": "Feature", "id": 3, "properties": { "Name": "Wamp!", "Lat": -33.67631405, "Long": 151.3160062 }, "geometry": { "type": "Point", "coordinates": [ 151.3160062, -33.67631404999959 ] } }
+,
+{ "type": "Feature", "id": 4, "properties": { "Name": "Gregs Point", "Lat": -33.63644191, "Long": 151.3313752 }, "geometry": { "type": "Point", "coordinates": [ 151.3313752, -33.636441909999611 ] } }
+,
+{ "type": "Feature", "id": 5, "properties": { "Name": "The trench", "Lat": -33.78643025, "Long": 151.2911337 }, "geometry": { "type": "Point", "coordinates": [ 151.2911337, -33.786430249999654 ] } }
+,
+{ "type": "Feature", "id": 6, "properties": { "Name": "Collaroy End", "Lat": -33.73397636, "Long": 151.3060284 }, "geometry": { "type": "Point", "coordinates": [ 151.3060284, -33.733976359999616 ] } }
+,
+{ "type": "Feature", "id": 7, "properties": { "Name": "North Curl Curl", "Lat": -33.7673752, "Long": 151.2989044 }, "geometry": { "type": "Point", "coordinates": [ 151.29890440000003, -33.767375199999599 ] } }
+,
+{ "type": "Feature", "id": 8, "properties": { "Name": "North Steyne", "Lat": -33.7879932, "Long": 151.28851890000001 }, "geometry": { "type": "Point", "coordinates": [ 151.28851890000001, -33.787993199999605 ] } }
+,
+{ "type": "Feature", "id": 9, "properties": { "Name": "Winkipop", "Lat": -33.79940588, "Long": 151.2981319 }, "geometry": { "type": "Point", "coordinates": [ 151.2981319, -33.799405879999632 ] } }
+,
+{ "type": "Feature", "id": 10, "properties": { "Name": "North narrabeen point", "Lat": -33.70385809, "Long": 151.309424 }, "geometry": { "type": "Point", "coordinates": [ 151.309424, -33.703858089999628 ] } }
+,
+{ "type": "Feature", "id": 11, "properties": { "Name": "Warriewood", "Lat": -33.69201146, "Long": 151.3100591 }, "geometry": { "type": "Point", "coordinates": [ 151.31005910000002, -33.692011459999634 ] } }
+,
+{ "type": "Feature", "id": 12, "properties": { "Name": "Winki", "Lat": -33.79872829, "Long": 151.29774570000001 }, "geometry": { "type": "Point", "coordinates": [ 151.29774570000001, -33.798728289999609 ] } }
+,
+{ "type": "Feature", "id": 13, "properties": { "Name": "Queensie bombie", "Lat": -33.78920587, "Long": 151.29487040000001 }, "geometry": { "type": "Point", "coordinates": [ 151.29487040000001, -33.789205869999613 ] } }
+,
+{ "type": "Feature", "id": 14, "properties": { "Name": "Turrimetta", "Lat": -33.69973441, "Long": 151.3100624 }, "geometry": { "type": "Point", "coordinates": [ 151.3100624, -33.699734409999614 ] } }
+,
+{ "type": "Feature", "id": 15, "properties": { "Name": "Queenscliff", "Lat": -33.78357038, "Long": 151.29066470000001 }, "geometry": { "type": "Point", "coordinates": [ 151.29066470000001, -33.783570379999624 ] } }
+,
+{ "type": "Feature", "id": 16, "properties": { "Name": "Mona Vale", "Lat": -33.68206818, "Long": 151.31375310000001 }, "geometry": { "type": "Point", "coordinates": [ 151.31375310000001, -33.682068179999625 ] } }
+,
+{ "type": "Feature", "id": 17, "properties": { "Name": "North Palm Beach", "Lat": -33.59031332, "Long": 151.32817270000001 }, "geometry": { "type": "Point", "coordinates": [ 151.32817270000001, -33.590313319999616 ] } }
+,
+{ "type": "Feature", "id": 18, "properties": { "Name": "Nth Avalon", "Lat": -33.63414846, "Long": 151.3352215 }, "geometry": { "type": "Point", "coordinates": [ 151.3352215, -33.634148459999615 ] } }
+,
+{ "type": "Feature", "id": 19, "properties": { "Name": "Long-Reef", "Lat": -33.73797349, "Long": 151.3119936 }, "geometry": { "type": "Point", "coordinates": [ 151.3119936, -33.737973489999625 ] } }
+,
+{ "type": "Feature", "id": 20, "properties": { "Name": "Little Avalon", "Lat": -33.63982057, "Long": 151.33370880000001 }, "geometry": { "type": "Point", "coordinates": [ 151.33370880000001, -33.639820569999614 ] } }
+,
+{ "type": "Feature", "id": 21, "properties": { "Name": "Freshwater beach", "Lat": -33.78209011, "Long": 151.2915659 }, "geometry": { "type": "Point", "coordinates": [ 151.2915659, -33.782090109999615 ] } }
+,
+{ "type": "Feature", "id": 22, "properties": { "Name": "Manly Point", "Lat": -33.79723045, "Long": 151.28839020000001 }, "geometry": { "type": "Point", "coordinates": [ 151.28839020000001, -33.79723044999966 ] } }
+,
+{ "type": "Feature", "id": 23, "properties": { "Name": "Kiddies corner", "Lat": -33.59928588, "Long": 151.329031 }, "geometry": { "type": "Point", "coordinates": [ 151.329031, -33.599285879999606 ] } }
+,
+{ "type": "Feature", "id": 24, "properties": { "Name": "Newport - Crosswaves", "Lat": -33.66005694, "Long": 151.3275591 }, "geometry": { "type": "Point", "coordinates": [ 151.32755910000003, -33.660056939999613 ] } }
+,
+{ "type": "Feature", "id": 25, "properties": { "Name": "Dee why", "Lat": -33.75463808, "Long": 151.2994838 }, "geometry": { "type": "Point", "coordinates": [ 151.2994838, -33.75463807999963 ] } }
+,
+{ "type": "Feature", "id": 26, "properties": { "Name": "Fairy Bower", "Lat": -33.7992454, "Long": 151.2985611 }, "geometry": { "type": "Point", "coordinates": [ 151.2985611, -33.799245399999613 ] } }
+,
+{ "type": "Feature", "id": 27, "properties": { "Name": "Butterbox", "Lat": -33.74507507, "Long": 151.3169718 }, "geometry": { "type": "Point", "coordinates": [ 151.3169718, -33.745075069999587 ] } }
+,
+{ "type": "Feature", "id": 28, "properties": { "Name": "Bilgola Beach - Bowles", "Lat": -33.64767156, "Long": 151.32924560000001 }, "geometry": { "type": "Point", "coordinates": [ 151.32924560000001, -33.647671559999623 ] } }
+,
+{ "type": "Feature", "id": 29, "properties": { "Name": "Balmoral point", "Lat": -33.82197709, "Long": 151.25255580000001 }, "geometry": { "type": "Point", "coordinates": [ 151.25255580000001, -33.821977089999606 ] } }
+,
+{ "type": "Feature", "id": 30, "properties": { "Name": "Bungan", "Lat": -33.66613958, "Long": 151.3205338 }, "geometry": { "type": "Point", "coordinates": [ 151.3205338, -33.666139579999637 ] } }
+,
+{ "type": "Feature", "id": 31, "properties": { "Name": "Bungan", "Lat": -33.66613958, "Long": 151.3205338 }, "geometry": { "type": "Point", "coordinates": [ 151.3205338, -33.666139579999637 ] } }
+
+]
+}
